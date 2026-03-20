@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+reports/*.json
+reports/*.md
+!reports/.gitkeep
+artifacts/
+.DS_Store
